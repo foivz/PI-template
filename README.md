@@ -1,4 +1,4 @@
-# Inicijalne upute za prijavu i rad na projektu iz Programskog inženjerstva
+# Inicijalne upute za prijavu projekta iz Programskog inženjerstva
 
 Poštovane kolegice i kolege, 
 
