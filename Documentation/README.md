@@ -1,2 +1,1 @@
-This is your documentation folder. Auxiliary folder for storing images etc.
-Actual documentation is at Wiki
+Ovo je pomoćna mapa za dokumente i slike koje ćete referencirati u dokumentaciji na svojim wiki stranicama. 
